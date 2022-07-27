@@ -1,6 +1,6 @@
 type Filter = {
-   [key in string | number]: string | number;
-};
+   [key in string | number]: string | number
+}
 
-export default Filter;
-export { Filter };
+export default Filter
+export { Filter }

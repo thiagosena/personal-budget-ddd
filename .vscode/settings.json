@@ -1,7 +1,7 @@
 {
    "editor.fontSize": 13,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
-   "editor.formatOnSave": true,
+   "editor.formatOnSave": false,
    "editor.autoIndent": "full",
    "editor.detectIndentation": true,
    "editor.tabSize": 3,

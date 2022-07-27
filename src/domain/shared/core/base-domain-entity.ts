@@ -5,11 +5,11 @@ export default abstract class BaseDomainEntity {
       public isDeleted?: boolean,
       public deletedAt?: Date,
    ) {
-      this.createdAt = createdAt ?? new Date();
-      this.updatedAt = updatedAt ?? new Date();
-      this.isDeleted = isDeleted ?? false;
-      this.deletedAt = isDeleted ? deletedAt : undefined;
+      this.createdAt = createdAt ?? new Date()
+      this.updatedAt = updatedAt ?? new Date()
+      this.isDeleted = isDeleted ?? false
+      this.deletedAt = isDeleted ? deletedAt : undefined
    }
 }
 
-export { BaseDomainEntity };
+export { BaseDomainEntity }

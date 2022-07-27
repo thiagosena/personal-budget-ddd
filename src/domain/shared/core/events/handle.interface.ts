@@ -1,7 +1,5 @@
-// @ts-ignore
-
 export default interface IHandle<IDomainEvent> {
-   setupSubscriptions(): void;
+   setupSubscriptions(): void
 }
 
-export { IHandle };
+export { IHandle }
