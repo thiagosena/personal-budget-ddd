@@ -1,5 +1,4 @@
-import ValueObject from '../../../shared/core/value-object'
-import Result from './../../../shared/core/result'
+import { Result, ValueObject } from '../../../shared'
 
 export interface PasswordValueObjectProps {
    value: string
