@@ -1,3 +1,3 @@
-# Common resourses
+# Common resources
 
-Here goes resourses you shared on your domain for many subdomains
+Here goes resources you shared on your domain for many subdomains
